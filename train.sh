@@ -149,7 +149,7 @@ CLASS_PROMPT="a photo of ${CLASS_TOKEN}"
 export MODEL_NAME="runwayml/stable-diffusion-v1-5"
 
 PEFT_TYPE="boft"
-BLOCK_NUM=32
+BLOCK_NUM=8
 BLOCK_SIZE=0
 N_BUTTERFLY_FACTOR=1
 
